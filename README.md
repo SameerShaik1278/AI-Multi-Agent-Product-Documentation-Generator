@@ -1,4 +1,5 @@
 # AI-Powered Multi-Agent Product Documentation Generator
+<img width="1196" height="402" alt="image" src="https://github.com/user-attachments/assets/00bdf584-e510-47b6-8444-39bd9b0d099a" />
 
 ## Overview
 
@@ -21,6 +22,26 @@ Starting from a single product idea, the workflow generates:
 The generated documentation is automatically exported to Google Docs for stakeholder review.
 
 ---
+
+# 🏗 Architecture
+<img width="1920" height="1080" alt="Architecture" src="https://github.com/user-attachments/assets/ab181ad6-cb09-43cc-bdfb-f2b9d344a83e" />
+
+## ⚙️ Workflow Implementation
+
+### Workflow - Part 1
+<img width="1647" height="587" alt="Strategy_and_Engineering" src="https://github.com/user-attachments/assets/00ce168f-af21-427c-8c13-4f1699ed6870" />
+
+### Workflow - Part 2
+<img width="1650" height="470" alt="UX_and_Engineering" src="https://github.com/user-attachments/assets/11415dab-a7e0-4072-a7fc-b45b82a81e30" />
+
+### Workflow - Part 3
+<img width="1651" height="540" alt="Validation" src="https://github.com/user-attachments/assets/84c95c5e-b3f2-495b-a34a-b74045114d30" />
+
+### Workflow - Part 4
+<img width="1600" height="518" alt="Release_and_Documentation" src="https://github.com/user-attachments/assets/035880cc-eb86-4169-b661-7d79ee46f781" />
+
+# 📄 Generated PRD
+<img width="1097" height="836" alt="Google_Doc_Output&#39;" src="https://github.com/user-attachments/assets/eb0e810b-2e45-4838-82d4-c0dcfbc9727b" />
 
 ## Tech Stack
 
