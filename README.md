@@ -29,6 +29,8 @@ The generated documentation is automatically exported to Google Docs for stakeho
 ## ⚙️ Workflow Implementation
 
 ### Workflow - Part 1
+<img width="1605" height="427" alt="image" src="https://github.com/user-attachments/assets/d46ac3d6-bdaa-412a-a0ef-177346446986" />
+
 <img width="1647" height="587" alt="Strategy_and_Engineering" src="https://github.com/user-attachments/assets/00ce168f-af21-427c-8c13-4f1699ed6870" />
 
 ### Workflow - Part 2
